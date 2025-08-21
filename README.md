@@ -2,73 +2,58 @@
 _A collection of my C programming & practice sheets_
 
 
-![Made with C](https://img.shields.io/badge/Made%20with-C-0f172a?style=for-the-badge&logo=c&logoColor=white) 
-![Student Life](https://img.shields.io/badge/College-Life-1d4ed8?style=for-the-badge&logo=google-scholar&logoColor=white) 
-![Learning Everyday](https://img.shields.io/badge/Learning-Everyday-2563eb?style=for-the-badge&logo=openai&logoColor=white) 
-![Last Commit](https://img.shields.io/github/last-commit/Prince-verma56/College-Work?color=0ea5e9&style=for-the-badge)  
-
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1e3a8a?style=for-the-badge&logo=python&logoColor=white) 
+![Happy Coding](https://img.shields.io/badge/Happy-Coding-2563eb?style=for-the-badge&logo=smiley&logoColor=white) 
+![Open Source](https://img.shields.io/badge/Open%20Source-0ea5e9?style=for-the-badge&logo=github&logoColor=white) 
+![Last Commit](https://img.shields.io/github/last-commit/dikshasharma29/Competitive-Programming-Worksheet?color=1e40af&style=for-the-badge)  
 ---
 
 ## 📘 About this Repository
-This repo is a collection of my **college programming work & practice sheets**.  
-I’m keeping it organized here so I can **revise, track progress, and improve problem-solving skills** 🚀.  
+This repository contains my **college assignments, practice problems, and projects in Python**.  
+I’ve created it to **revise concepts, track my learning journey, and improve coding skills** 🚀  
 
 ---
 
 ## 📂 Repository Structure
+Day 1/
+│── Sheet 1: Control Statements/
+│── Sheet 2: Loops & Iterations/
+│── Sheet 3: Functions/
+│── Sheet 4: Data Structures/
+│── Projects/
 
-Next Day 1/
-Sheet 1 Control statements/
-Sheet 2 Control statements/
 
 
-Each folder contains my class practice codes, assignments, and extra exercises.  
+Each folder includes **class practice codes, assignments, and extra exercises**.  
 
 ---
 
 ## 🎯 Goals of this Repo
-- Strengthen concepts of **C Programming & Problem Solving** 🖥️  
-- Keep a clean, trackable history of my coding journey 📈  
-- Build consistency and discipline through daily practice ⚡  
+- Strengthen concepts of **Python Programming & Problem Solving** 🐍  
+- Keep a structured, trackable history of my coding journey 📈  
+- Build **discipline & consistency** through daily practice ⚡  
 
 ---
 
 ## ⚡ How to Run
-1. Clone this repo:  
+1. Clone this repository:  
    ```bash
-   git clone https://github.com/Prince-verma56/College-Work.git
+   git clone https://github.com/Prince-verma56/Python-College-Work.git
+Navigate to the respective folder:
 
 
-Go to the respective folder:
+cd "Sheet 1 Control Statements"
+Run Python files:
 
-cd "Sheet 1 Control statements"
 
-
-Compile & run using GCC:
-
-gcc program.c -o program
-./program
-
+python program.py
 ✨ Author
-
 👨‍💻 Prince Verma
-
 🎓 First-Year BCA Student
-
 🌱 Passionate about Web Development & Programming
-
-⚡ Exploring DSA | Docker | Kubernetes | AWS | Full-Stack Dev
+⚡ Exploring DSA | Docker | Kubernetes | AWS | Full-Stack Development
 
 🌟 Note
-
-This repo is mainly for college practice, but who knows — someday it might turn into something big ⚡
+This repo is mainly for college practice & Python learning, but it may evolve into something bigger someday ⚡
 
 🔥 Code. Learn. Grow. 🔥
-
-
----
-
-This keeps your **branding** (ambitious, sharp, hardworking student) while still **organized for college use** ✅.  
-
-👉 Want me to also make a **personal banner badge** like:  
-`WELCOME TO PRINCE'S COLLEGE WORK 🚀` in dark-blue gradient at the top?
