@@ -1,3 +1,4 @@
+total = 0
 # 9. Sum of digits of a number
 N = int(input("Enter a number: "))
 total = 0
